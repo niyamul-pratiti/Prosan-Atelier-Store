@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="120" viewBox="0 0 220 120">
+  <rect width="220" height="120" rx="30" fill="#FFF8EA"/>
+  <circle cx="48" cy="60" r="28" fill="#C58B24" opacity="0.16"/>
+  <text x="48" y="69" text-anchor="middle" font-size="20" font-family="Manrope, Arial, sans-serif" font-weight="900" fill="#4B2F12">S</text>
+  <text x="125" y="66" text-anchor="middle" font-size="24" font-family="Manrope, Arial, sans-serif" font-weight="900" fill="#4B2F12">Samyang</text>
+  <path d="M25 92 C75 110 145 110 195 92" fill="none" stroke="#C58B24" stroke-width="3" stroke-linecap="round" opacity=".35"/>
+</svg>

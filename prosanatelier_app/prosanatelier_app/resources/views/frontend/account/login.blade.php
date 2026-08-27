@@ -1,0 +1,6 @@
+@extends('layouts.store')
+@section('title', 'Customer Login - Prosan Atelier')
+@section('content')
+<section class="py-5" style="background-image:url('{{ asset('foodmart/images/background-pattern.jpg') }}');background-size:cover;"><div class="container-fluid"><h1 class="display-5 fw-bold">My Account</h1><p class="text-muted">Login to view your orders and delivery details.</p></div></section>
+<section class="py-5"><div class="container-fluid"><div class="row justify-content-center"><div class="col-lg-5"><div class="card border-0 shadow-sm rounded-4 p-4 p-md-5"><h3 class="mb-4">Customer Login</h3><form method="POST" action="{{ route('customer.login.store') }}" class="row g-3">@csrf<div class="col-12"><label class="form-label">Email or Phone</label><input name="login" value="{{ old('login') }}" class="form-control form-control-lg" required></div><div class="col-12"><label class="form-label">Password</label><input type="password" name="password" class="form-control form-control-lg" required></div><div class="col-12"><button class="btn btn-primary btn-lg w-100 rounded-pill">Login</button></div></form><p class="mt-4 mb-0 text-center">New customer? <a href="{{ route('customer.register') }}">Create an account</a></p></div></div></div></div></section>
+@endsection

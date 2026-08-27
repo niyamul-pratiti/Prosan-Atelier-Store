@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140">
+  <rect width="140" height="140" rx="34" fill="#FFF1D6"/>
+  <circle cx="70" cy="62" r="38" fill="#fff" opacity="0.92"/>
+  <text x="70" y="75" text-anchor="middle" font-size="42" font-family="Arial, sans-serif">🍪</text>
+  <text x="70" y="114" text-anchor="middle" font-size="13" font-family="Manrope, Arial, sans-serif" font-weight="800" fill="#B87333">Snacks</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" role="img" aria-labelledby="title desc">
+<title id="title">Prosan Atelier essentials</title><desc id="desc">Static illustration of food, cosmetics and daily essentials</desc>
+<defs>
+<linearGradient id="g1" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#e9f8ee"/><stop offset="1" stop-color="#fff3d0"/></linearGradient>
+<linearGradient id="gold" x1="0" x2="1"><stop stop-color="#f4d37a"/><stop offset="1" stop-color="#b98a2f"/></linearGradient>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#172033" flood-opacity=".12"/></filter>
+</defs>
+<rect width="760" height="560" rx="46" fill="url(#g1)"/>
+<circle cx="585" cy="105" r="88" fill="#fff" opacity=".6"/>
+<circle cx="148" cy="443" r="105" fill="#fff" opacity=".55"/>
+<g filter="url(#shadow)">
+<rect x="96" y="112" width="230" height="312" rx="28" fill="#fff"/>
+<rect x="128" y="162" width="166" height="122" rx="22" fill="#f25545"/>
+<path d="M143 233c34-41 92-45 136-5" stroke="#fff" stroke-width="14" fill="none" stroke-linecap="round"/>
+<text x="146" y="320" font-family="Arial" font-size="38" font-weight="700" fill="#172033">RAMEN</text>
+<rect x="126" y="343" width="126" height="18" rx="9" fill="#e9f8ee"/>
+</g>
+<g filter="url(#shadow)">
+<rect x="392" y="96" width="96" height="330" rx="24" fill="#fff"/>
+<rect x="415" y="50" width="51" height="78" rx="16" fill="url(#gold)"/>
+<rect x="413" y="160" width="55" height="178" rx="20" fill="#e9f8ee"/>
+<path d="M440 182v135" stroke="#1f7a46" stroke-width="8" stroke-linecap="round" opacity=".5"/>
+<text x="424" y="386" font-family="Arial" font-size="18" font-weight="700" fill="#b98a2f">SKIN</text>
+</g>
+<g filter="url(#shadow)">
+<rect x="517" y="187" width="145" height="188" rx="26" fill="#fff"/>
+<rect x="545" y="218" width="90" height="70" rx="18" fill="#1f7a46"/>
+<path d="M559 255c26-27 54-27 73 0" stroke="#fff" stroke-width="9" fill="none" stroke-linecap="round"/>
+<circle cx="591" cy="325" r="33" fill="#fff3d0"/>
+<path d="M577 325h28M591 311v28" stroke="#b98a2f" stroke-width="7" stroke-linecap="round"/>
+</g>
+<g filter="url(#shadow)">
+<ellipse cx="365" cy="454" rx="182" ry="36" fill="#d6eadb"/>
+<rect x="253" y="374" width="230" height="74" rx="20" fill="#fff"/>
+<path d="M275 407h185" stroke="#b98a2f" stroke-width="12" stroke-linecap="round"/>
+<path d="M302 433h130" stroke="#1f7a46" stroke-width="10" stroke-linecap="round" opacity=".55"/>
+</g>
+<path d="M612 438c22-19 47-20 68-3" stroke="#b98a2f" stroke-width="7" fill="none" stroke-linecap="round"/>
+<circle cx="122" cy="95" r="10" fill="#b98a2f"/><circle cx="643" cy="126" r="8" fill="#1f7a46"/><circle cx="92" cy="310" r="7" fill="#1f7a46"/>
+</svg>
